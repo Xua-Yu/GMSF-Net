@@ -17,7 +17,7 @@ Step 3: Launch FPHA.py for a simple example.
 
 ## Overall Framework
 
-![main](C:\Users\于轩\Desktop\main.jpg)
+![main](main.jpg)
 
 ## Reference
 
