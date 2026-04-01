@@ -22,11 +22,14 @@ Step 3: Launch FPHA.py for a simple example.
 ## Reference
 
 ```bibtex
-@article{yu2025learning,
-  title={Learning Topology-Driven Multi-Subspace Fusion for Grassmannian Deep Network},
+@inproceedings{yu2026learning,
+  title={Learning Topology-Driven Multi-Subspace Fusion for Grassmannian Deep Networks},
   author={Yu, Xuan and Xu, Tianyang},
-  journal={arXiv preprint arXiv:2511.08628},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={33},
+  pages={27987--27995},
+  year={2026}
 }
 ```
 
